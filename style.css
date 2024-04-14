@@ -460,19 +460,7 @@ footer{
         min-height:70vh ;
     }
   
-            .news-letter{
-                padding: 2rem 15vh;
-                display: flex;
-                flex-direction: column;
-                text-align: center;
-                width: 100%;
-                align-items: center;
-                justify-content: center;
-                margin: auto;
-                row-gap: 1rem;
-               
-            
-            }
+           
 }
 @media (max-width:810px) {
     html{
