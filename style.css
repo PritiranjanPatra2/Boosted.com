@@ -449,7 +449,7 @@ footer{
 
 /* @media-query */
 
-@media (max-width:2140px){
+@media (max-width:979px){
     header .header-img{
         display: flex;
         flex-direction: column;
