@@ -449,7 +449,7 @@ footer{
 
 /* @media-query */
 
-@media (max-width:1122px){
+@media screen and (max-width:1122px){
     header .header-img{
         display: flex;
         flex-direction: column;
@@ -530,7 +530,7 @@ background-size:auto;
 
 
 }
-@media (max-width:545px){
+@media screen and (max-width:545px){
     html{
         font-size: 12px;
     }
@@ -588,7 +588,7 @@ background-size:auto;
     }
     
 }
-@media (max-width:367px) {
+@media screen and (max-width:367px) {
     html{
         font-size: 10px;
     }
@@ -626,7 +626,7 @@ background-size:auto;
     
     }
 }
-@media (max-width:321px){
+@media screen and (max-width:321px){
     header img{
         width: 8rem;
     }
